@@ -85,7 +85,7 @@ education:
       - Web Programming
 work:
   - position: Full Stack Developer (project contract) 
-    company_name: X
+    company_name: Un. of Cagliari & Avvale
     company_url: ''
     company_logo: ''
     date_start: 2022-12-01
@@ -119,11 +119,11 @@ skills:
         description: 'description test'
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: D3.JS
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: Unity / C\#
         description: ''
         percent: 40
         icon: circle-stack
@@ -135,55 +135,60 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Books / Movies / Music
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: camera
+      - name: Animals
         description: ''
         percent: 80
-        icon: camera
+        icon: animal
 
 languages:
-  - name: English
+  - name: Italian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 70
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Extended Reality for Everybody
+    url: https://www.coursera.org/specializations/extended-reality-for-everybody#courses
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+    #  I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network's architecture; and apply deep learning to your own applications.
+    Through the three courses - 1) covering XR fundamentals, 2) human‑centered design and prototyping, and 3) hands‑on development, I gained a comprehensive understanding of AR, VR, MR and XR technologies, including device platforms, interaction paradigms and ethical implications such as privacy, accessibility and societal impact online. I learned to apply design thinking and rapid prototyping techniques (storyboarding, wireframes, physical mockups) to evaluate and iterate immersive experiences with attention to usability and inclusion. + I also built marker‑based AR scenes and immersive VR environments using A‑Frame and Unity, always incorporating accessible design principles and privacy.
+    # Together, this specialization equipped me to strategically integrate XR technologies into research, teaching or product design contexts—empowering me to prototype, critique, and implement immersive experiences thoughtfully and effectively as part of my PhD-focused work.
+      
+  # - title: Blockchain Fundamentals
+  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #   date: '2023-07-01'
+  #   awarder: edX
+  #   icon: edx
+  #   summary: |
+  #     Learned:
+  #     - Synthesize your own blockchain solutions
+  #     - Gain an in-depth understanding of the specific mechanics of Bitcoin
+  #     - Understand Bitcoin's real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin's Proof-of-Work consensus algorithm
+  # - title: 'Object-Oriented Programming in R'
+  #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  #   certificate_url: https://www.datacamp.com
+  #   date: '2023-01-21'
+  #   awarder: datacamp
+  #   icon: datacamp
+  #   summary: |
+  #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jacopo Mereu is a PhD student in Computer Science at the University of Cagliari, where he is part of the Computer Graphics and Human-Computer Interaction (CG3HCI) lab, led by Professors Riccardo Scateni and Lucio Davide Spano. His doctoral research is supervised by Prof. Spano.
+
+Jacopo's research lies at the intersection of Human-Computer Interaction (HCI), End-User Development (EUD), and eXtended Reality (XR). His PhD project focuses on investigating how conversational agents—such as Large Language Models—can support end-users and novice developers in the creation of XR content, with the goal of making immersive technologies more accessible and widespread.
