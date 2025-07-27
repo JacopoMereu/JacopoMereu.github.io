@@ -73,7 +73,7 @@ education:
       - Deep Learning
       - Natural Language Processing
   - area: B.Sc. Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: University of Cagliari
     date_start: 2018-09-12
     date_end: 2021-07-22
     summary: |
