@@ -89,7 +89,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-12-01
-    date_end: 2023-06-31
+    date_end: 2023-06-30
     summary: |
       Responsibilities include:
       - Developing a Proof of Concept (POC) for an End-User Development (EUD) tool for visual merchandising in virtual environments
