@@ -1,7 +1,7 @@
 ---
-title: VMXR
+title: ECARules4All
 date: 2021-06-26
-external_link: https://ceur-ws.org/Vol-3408/short-s0-03.pdf
+external_link: https://github.com/cg3hci/ECARules4All
 tags:
   - Unity
   - Event-Condition-Action Rules
@@ -9,5 +9,5 @@ tags:
   - End-User Development
 ---
 
-VMXR is a Proof-of-Concept that lets designers, even without coding skills, build virtual product displays. My Master thesis is based on this project.
+ECARules4All is a Unity plugin that lets non-coders build customizable VR worlds using natural language Event-Condition-Action rules.
 <!--more-->
