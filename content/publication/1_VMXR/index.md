@@ -23,7 +23,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: In Joint Proceedings of the Workshops, Work in Progress Demos and Doctoral Consortium at the IS-EUD 2023 co-located with the 9th International Symposium on End-User Development (IS-EUD 2023), Cagliari, Italy, June 6-8, 2023
@@ -49,12 +53,12 @@ featured: true
 
 url_pdf: 'https://ceur-ws.org/Vol-3408/short-s0-03.pdf'
 url_slides: 'https://docs.google.com/presentation/d/1l_QyPFnnRSEaHqU7zh7haHioqggWkU7y/edit?usp=sharing&ouid=116157388079775457519&rtpof=true&sd=true'
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_poster: ''
-# url_project: ''
-# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_video: 'https://youtube.com'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
