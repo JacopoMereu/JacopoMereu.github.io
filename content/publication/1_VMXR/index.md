@@ -48,7 +48,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
+- name: Work-in-Progress
   url: https://ceur-ws.org/Vol-3408/short-s0-03.pdf
 
 url_pdf: 'https://drive.google.com/file/d/1ganJHeGji6F9UaTBIcaoHLOgN2YUyrJm/view?usp=drive_link'
