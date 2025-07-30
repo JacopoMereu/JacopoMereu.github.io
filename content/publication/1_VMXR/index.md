@@ -47,9 +47,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Custom Link
+  url: https://ceur-ws.org/Vol-3408/short-s0-03.pdf
 
 url_pdf: 'https://drive.google.com/file/d/1ganJHeGji6F9UaTBIcaoHLOgN2YUyrJm/view?usp=drive_link'
 url_slides: 'https://docs.google.com/presentation/d/1l_QyPFnnRSEaHqU7zh7haHioqggWkU7y/edit?usp=sharing&ouid=116157388079775457519&rtpof=true&sd=true'

@@ -1,7 +1,7 @@
 ---
 title: VMXR
 date: 2023-01-01
-external_link: https://ceur-ws.org/Vol-3408/short-s0-03.pdf
+external_link: https://jacopomereu.github.io/publication/1_vmxr/
 tags:
   - Unity
   - WebGL
