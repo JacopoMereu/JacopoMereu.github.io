@@ -1,5 +1,5 @@
 ---
-title: vm
+title: VMXR?
 date: 2021-06-26
 external_link: https://github.com/cg3hci/ECARules4All
 tags:
