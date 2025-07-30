@@ -7,7 +7,7 @@ title: 'VMXR: a EUD Environment for Virtual Merchandizing in XR'
 authors:
   - admin
   - Carlo Nuvole
-  - Lucio Davide Spano
+  - Davide Spano
 
 # Author notes (optional)
 author_notes:
@@ -32,7 +32,7 @@ publication_short: '' #In *ICW*
 abstract: This paper presents the current development state of VMXR, a Proof of Concept (PoC) environment allowing people without programming experience to create and configure product showcases in a Virtual and eXtended reality setting. The aim of the PoC is to identify proper metaphors and workflows for supporting showcase designers in creating interactions with the virtual product representation or enhancing the physical environment through additional information and media.
 
 # Summary. An optional shortened abstract.
-summary: This paper presents the current development state of VMXR, a Proof of Concept (PoC) environment allowing people without programming experience to create and configure product showcases in a Virtual and eXtended reality setting. The aim of the PoC is to identify proper metaphors and workflows for supporting showcase designers in creating interactions with the virtual product representation or enhancing the physical environment through additional information and media.
+summary: VMXR is a demo that lets designers, even without coding skills, build virtual product displays.
 
 tags:
   - eXtended Reality
@@ -48,11 +48,11 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ceur-ws.org/Vol-3408/short-s0-03.pdf'
+url_slides: 'https://docs.google.com/presentation/d/1l_QyPFnnRSEaHqU7zh7haHioqggWkU7y/edit?usp=sharing&ouid=116157388079775457519&rtpof=true&sd=true'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/1l_QyPFnnRSEaHqU7zh7haHioqggWkU7y/edit?usp=sharing&ouid=116157388079775457519&rtpof=true&sd=true'
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
 
