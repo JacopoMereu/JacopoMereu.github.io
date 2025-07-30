@@ -12,7 +12,7 @@ authors:
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
+  # - 'Equal contribution'
 
 date: '2023-01-01T00:00:00Z'
 doi: ''
@@ -27,16 +27,16 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['Thesis']
 
 # Publication name and optional abbreviated publication name.
-publication: In Joint Proceedings of the Workshops, Work in Progress Demos and Doctoral Consortium at the IS-EUD 2023 co-located with the 9th International Symposium on End-User Development (IS-EUD 2023), Cagliari, Italy, June 6-8, 2023
+publication: 'University of Cagliari' #In Joint Proceedings of the Workshops, Work in Progress Demos and Doctoral Consortium at the IS-EUD 2023 co-located with the 9th International Symposium on End-User Development (IS-EUD 2023), Cagliari, Italy, June 6-8, 2023
 publication_short: '' #In *ICW*
 
-abstract: This paper presents the current development state of VMXR, a Proof of Concept (PoC) environment allowing people without programming experience to create and configure product showcases in a Virtual and eXtended reality setting. The aim of the PoC is to identify proper metaphors and workflows for supporting showcase designers in creating interactions with the virtual product representation or enhancing the physical environment through additional information and media.
+abstract: The VR user market is growing year by year. For this reason, an increasing number of ama- teur individuals are becoming more interested in working in this field. However, due to the intrinsic difficulties of development, they will face many difficulties. <br>This thesis presents the work done on a project called Virtual Merchandising and eXtended Reality (VMXR) which aims to support these inexperienced users. By shifting some tasks to developers, it empowers end-users to design, and furnish interactive virtual environments. The tool embodies the concept of end-user development, enabling non-programmer users to perform actions that would typically require technical or specialized knowledge, without the need for such expertise.
 
 # Summary. An optional shortened abstract.
-summary: VMXR is a demo that lets designers, even without coding skills, build virtual product displays.
+summary: This thesis presents VMXR, a tool enabling non-programmers to create interactive virtual environments by simplifying development tasks, supporting the growing amateur VR user market through end-user development principles.
 
 tags:
   - eXtended Reality
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ceur-ws.org/Vol-3408/short-s0-03.pdf'
+url_pdf: 'https://drive.google.com/file/d/1ganJHeGji6F9UaTBIcaoHLOgN2YUyrJm/view?usp=drive_link'
 url_slides: 'https://docs.google.com/presentation/d/1l_QyPFnnRSEaHqU7zh7haHioqggWkU7y/edit?usp=sharing&ouid=116157388079775457519&rtpof=true&sd=true'
 url_code: ''
 url_dataset: ''
@@ -80,15 +80,24 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+# Short Intro
+VMXR is a Proof of Concept study, carried out in collaboration with the company Techedge, that advances the support for non-developer users in creating virtual showcase environments. VMXR adapts the methodology used in ECArules4All to create a workflow among developers and non-developer users (Environment Configurator, and Experience Configurator) in a fully web-based environment.
+
+Even though VMXR tries to maximize the support towards non-programmer users (environment configurator, experience configurator), they cannot do all the work alone: there is still a need for a Developer that takes care of performing some tasks on Unity, the game engine to the base of VMXR.
+
+The Environment Configurator is a non-developer figure, potentially an interior designer, which logs in to the VMXR platform to design the structural content of generic virtual environments and to furnish them with generic content.
+
+The Experience Configurator is another non-developer figure, which logs in to the VMXR platform to personalize a generic content, created by an environment configurator, with specific domain content and custom interactions to create a tailored interactive XR experience.
+
+An XR experience can be enjoyed by final users always through the VMXR platform.
