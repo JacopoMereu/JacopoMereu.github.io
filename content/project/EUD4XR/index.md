@@ -1,6 +1,6 @@
 ---
 title: EUD4XR
-date: 2022-01-01
+date: 2024-10-01
 external_link: https://prin.unica.it/eud4xr/
 tags:
   - Unity

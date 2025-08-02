@@ -1,6 +1,6 @@
 ---
 title: VMXR
-date: 2023-01-01
+date: 2023-07-01
 external_link: https://jacopomereu.github.io/publication/1_vmxr/
 tags:
   - Unity
