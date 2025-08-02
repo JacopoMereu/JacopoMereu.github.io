@@ -1,7 +1,7 @@
 ---
-title: \[St.] Pac-Man + Missiles
+title: (St.Pr.) Pac-Man + Missiles
 date: 2020-06-22
-external_link: https://github.com/JacopoMereu/pacman/tree/main
+external_link: https://github.com/JacopoMereu/pacman/
 tags:
   - C
   - Terminal
